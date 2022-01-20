@@ -33,3 +33,4 @@ networks:
  monitoring:
     driver: bridge
     name: monitoring
+
